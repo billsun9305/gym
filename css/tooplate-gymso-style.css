@@ -248,7 +248,8 @@ https://www.tooplate.com/view/2119-gymso-fitness
   -----------------------------------------*/
 
   .feature {
-    background: var(--dark-color);
+    /* background: var(--dark-color); */
+    background: rgb(15, 57, 65);
     padding: 5rem 0;
   }
 
@@ -258,7 +259,8 @@ https://www.tooplate.com/view/2119-gymso-fitness
   -----------------------------------------*/
 
   .navbar {
-    background: var(--dark-color);
+    /* background: var(--dark-color); */
+    background: rgb(12, 93, 109);
     padding: 1rem;
   }
 
@@ -414,7 +416,9 @@ https://www.tooplate.com/view/2119-gymso-fitness
   -----------------------------------------*/
 
   .schedule {
-    background: var(--dark-color);
+    /* background: var(--dark-color); */
+    background: rgb(15, 57, 65);
+
   }
 
   .schedule-table {
@@ -471,6 +475,10 @@ https://www.tooplate.com/view/2119-gymso-fitness
 
   .table td, .table th {
     padding: 1rem;
+  }
+
+  .table{
+    background-color: black;
   }
 
 
